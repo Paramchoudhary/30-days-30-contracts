@@ -1,2 +1,2 @@
-I take this Challenge for my improvememnt of Solidity language.
+I take this Challenge for my self improvement in Solidity language.
 ## 30-days-30-contracts
