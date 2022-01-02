@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 
-contract Agechecker {
+contract Lifecycle {
   
    function ageChecker(uint age) public pure returns(string memory){
    if(age<=13){
