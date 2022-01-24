@@ -2,7 +2,7 @@
 pragma solidity ^0.8.2;
 
 contract Lifecycle {
-  
+  //create a function
    function ageChecker(uint age) public pure returns(string memory){
    if(age<=13){
        return "kid";
