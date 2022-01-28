@@ -3,6 +3,7 @@
 pragma solidity ^0.8.0;
 
 contract AccessRestriction{
+//block.timestamp = time
     uint time_ = block.timestamp;
  address payable public owner  = payable(msg.sender);
  uint public lastOwnerChange = time_;
