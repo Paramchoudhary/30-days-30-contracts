@@ -2,6 +2,7 @@
 pragma solidity 0.8.7 ;
 
 contract Calculator{
+//create two variable for input and output
 uint x;
 uint y;
     function setInput(uint a, uint b) public {
